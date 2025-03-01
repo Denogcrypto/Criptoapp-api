@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Criptoapp+api", "Criptoapp+api\Criptoapp+api.vbproj", "{0AFA899B-4EC9-4149-9CCD-A79200389A08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AFA899B-4EC9-4149-9CCD-A79200389A08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AFA899B-4EC9-4149-9CCD-A79200389A08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AFA899B-4EC9-4149-9CCD-A79200389A08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AFA899B-4EC9-4149-9CCD-A79200389A08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {087349D9-4642-4F4D-B65B-F7BBB33760DC}
+	EndGlobalSection
+EndGlobal
